@@ -1,8 +1,8 @@
 <h1> Hi, I’m @camerondaly! 👋  </h1>
-<strong> Having built <a href="https://www.punch-in.app">PunchIn</a>, I'm now managing and maintaining it. </strong> 
+<strong> I built <a href="https://www.punch-in.app">PunchIn</a>, and now I'm managing and maintaining it. </strong> 
 </br>
 
-* I use Firebase for their cloud hosted NoSQL db, Auth0 for Authentication, Stripe for payments, and Next.js on the frontend. </br>
+* I use Firebase for their cloud hosted NoSQL db, Auth0 for Authentication, Stripe for payments, Next.js on the frontend, and Vercel for hosting. </br>
 
 <strong> I'm also exploring Rust right now and familizarizing myself with the language. </strong> </br>
 - If I'm not doing these things, I'm either practicing violin 🎻, rehearsing with the Callisto Quartet, or, most likely, preparing for interviews... 
