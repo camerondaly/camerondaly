@@ -5,7 +5,8 @@
 * I use Firebase for their cloud hosted NoSQL db, Auth0 for Authentication, Stripe for payments, Next.js on the frontend, and Vercel for hosting. </br>
 
 <strong> I'm also exploring Rust right now and familizarizing myself with the language. </strong> </br>
-- If I'm not doing these things, I'm either performing or practicing violin 🎻 or, most likely, preparing for interviews... 
+
+&rarr; If I'm not doing these things, I'm either performing or practicing violin 🎻 or, most likely, preparing for interviews... 
 <strong>I'm open to work!</strong>
 </br></br>
 
