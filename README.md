@@ -6,8 +6,7 @@
 
 <strong> I'm also exploring Rust right now and familizarizing myself with the language. </strong> </br>
 
-&rarr; If I'm not doing these things, I'm either performing or practicing violin 🎻 or, most likely, preparing for interviews... 
-<strong>I'm open to work!</strong>
+&rarr; If I'm not doing these things, I'm probably rehearsing, performing, or practicing violin 🎻!
 </br></br>
 
 - A smattering of some familiar tech: </br>
