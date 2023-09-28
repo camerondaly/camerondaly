@@ -1,5 +1,5 @@
 <h4> Hi, I’m @camerondaly! 👋  </h4>
-<p> I'm a Software Support Engineer at <strong>Qualtrics</strong>, and the first violinist of the <strong>Callisto Quartet</strong> (www.callistoquartet.com). </p> 
+<p> I'm a Software Engineer at <strong>Qualtrics</strong>, and the first violinist of the <strong>Callisto Quartet</strong> (www.callistoquartet.com). </p> 
 <p> I also built www.punch-in.app! </p>
 </br>
 
