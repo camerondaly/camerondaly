@@ -1,6 +1,6 @@
-<h4> Hi, I’m @camerondaly! 👋  </h4>
+<h4> Hi, I’m @camerondaly, 👋  </h4>
 <p> I'm a Software Engineer at <strong>Qualtrics</strong>, and the first violinist of the <strong>Callisto Quartet</strong> (www.callistoquartet.com). </p> 
-<p> I also built www.punch-in.app! </p>
+<p> I also built www.punch-in.app. </p>
 </br>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
